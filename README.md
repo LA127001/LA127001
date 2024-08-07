@@ -1,4 +1,4 @@
-![logo] (https://github.com/LA127001/LA127001/blob/main/github.png)
+![logo](https://github.com/LA127001/LA127001/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Lakshya Agrawal</h1>
 <h3 align="center">Flutter Developer | Game Programmer | MERN Stack Enthusiast | UI/UX Designer</h3>
 
