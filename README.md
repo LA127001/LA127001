@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **lakshyaagrawal775@gmail.com**
 
-- ⚡ Fun fact **I am rider🏍**
+- ⚡ Fun fact **I am Rider🏍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
